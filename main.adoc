@@ -1,2 +1,5 @@
-Asciidoc
-Test change to committo.
+= Simple Cookbook
+Teresa Hudson
+:doctype: book
+:toc: left
+
