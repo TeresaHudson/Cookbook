@@ -1,5 +1,10 @@
+:stylesheet: style.css
+
 = Simple Cookbook
 Teresa Hudson
 :doctype: book
 :toc: left
+
+this is a test
+I am changing the test to have more stuff now. BWAHAHAHA.
 
